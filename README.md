@@ -1,2 +1,2 @@
 # LSTM
-LSTM models made from scratch as well as using LLM's
+LSTM models made from scratch (to be uploaded) as well as simple models from ChatGPT-0, Claude 3.5, and Gemini.  Testing different LLM's abilities to generate code.  Interesting.  The code is as delivered by the llm, no changes in Claude or ChatGPT except date range (was 2023 original end date - interesting all of them used the same base code; and I moved one to 10 epochs, they all suggested 50 to begin with).  In Gemini, I had to remove non-printing characters for character returns when copying the code over.  Otherwise no changes to any of them.  
